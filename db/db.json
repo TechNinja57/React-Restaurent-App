@@ -1,0 +1,64 @@
+{
+  "login":[
+    {"name": "as", "password":"123"}
+  ],
+
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "email": "pizzahut@test.com",
+      "address": "Islamabad",
+      "rating": "4.6",
+      "id": 1
+    },
+    {
+      "name": "McDonald",
+      "email": "mcdonald@test.com",
+      "address": "Islamabad",
+      "rating": "4.0",
+      "id": 2
+    },
+    {
+      "name": "Retro",
+      "email": "retro@test.com",
+      "address": "Nust Islamabad",
+      "rating": "4.3",
+      "id": 3
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Islamabad",
+      "rating": "4.8",
+      "id": 6
+    },
+    {
+      "name": "Rancher",
+      "email": "ranchers@test.com",
+      "address": "f11",
+      "rating": "4.1",
+      "id": 8
+    },
+    {
+      "name": "tandori",
+      "email": "tandori@gmail.com",
+      "address": "Islambad",
+      "rating": "4.1",
+      "id": 11
+    },
+    {
+      "name": "Margalla ",
+      "email": "margalla@nust.com",
+      "address": "Nust",
+      "rating": "4.0",
+      "id": 12
+    },
+    {
+      "name": "Frichick",
+      "email": "fck@gmail.com",
+      "address": "Lahore",
+      "rating": "3.98",
+      "id": 13
+    }
+  ]
+}
